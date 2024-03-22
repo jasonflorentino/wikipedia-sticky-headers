@@ -1,0 +1,39 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+*::selection {
+	background: #5EF7C0;
+	color:#0A212E;
+}
+
+html, body {
+	min-width: 350px;
+	background: #0A212E;
+	color: #EEE;
+}
+
+body {
+	padding: 1rem;
+}
+
+a {
+	color: #5EF7C0;
+}
+	
+h1 {
+	font-size: 1.2rem;
+	color: #5EF7C0;
+}
+
+p {
+	font-size: 1rem;
+	line-height: 1.5;
+	margin-top: 1rem;
+}
+
+.signoff {
+	text-align: right;
+}
