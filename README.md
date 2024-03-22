@@ -1,4 +1,5 @@
-# 📛 Wikipedia Sticky Headers
+![logo](images/icon-128.png)
+# Wikipedia Sticky Headers
 _Make table headers sticky on Wikipedia_
 
 I was looking at a long table on a [wikipedia article](https://en.wikipedia.org/wiki/List_of_solar_eclipses_in_the_21st_century) recently and realized I had to scroll alll the way up when I wondered _What does that column mean?_. It got me thinking: this definitely wasn't the first time I've run into this problem. But somebody else _must've_ run into it too! I knew there were a ton of browser extensions related to Wikipedia so I went looking; surely with all their fancy ways of "improving" the site they had this covered. But after a few fruitless result pages, I got that ol' feeling -- time to make my own!
