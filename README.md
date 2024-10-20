@@ -10,12 +10,23 @@ When I went to go publish this baby for that somebody else who must've run into 
 
 ## Set up
 
+### Chrome
 - Download this repo.
 - Go to `chrome://extensions/` in your Chrome browser.
 - You'll need to enable `Developer mode` in the top-right.
 - Click `Load unpacked` and choose this folder.
 
 And that ought to do it! You should now see the extension available in your Extensions and it should run only on Wikipedia pages.
+
+### Firefox
+_Note Manifest V3 extensions are only compatible with Firefox >=109 (Jan 2023)_
+
+- Download this repo.
+- Go to `about:debugging` in your Firefox browser. 
+- Click "This Firefox".
+- Click "Load Temporary Add-on" and select any file.
+
+See [this page](https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox/) on "Temporary installation" for more info
 
 ## Notes
 
